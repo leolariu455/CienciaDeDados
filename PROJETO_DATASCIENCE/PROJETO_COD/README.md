@@ -111,4 +111,4 @@ Este projeto foi desenvolvido seguindo a metodologia **CRISP-DM**, garantindo um
 
 ## 👥 Autores e Contato
 
-* **[Leonardo Lariú e Pedro Zinn]** - *Cientista de Dados / Analista de BI* 
+* **[Leonardo Lariú e Pedro Zinn]** 
